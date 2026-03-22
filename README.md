@@ -1,0 +1,2 @@
+# labGAC
+python si grafica 
